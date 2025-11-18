@@ -8,7 +8,7 @@ from urllib.parse import urljoin, urlparse
 
 
 # Configuration
-BASE_URL = "https://www.univ-eloued.dz/ar/"
+BASE_URL = "https://www.univ-eloued.dz/ar/event2023/"
 OUTPUT_FILE = "univ_eloued_activities.csv"
 CSV_SEPARATOR = ";"
 TIMEOUT = 15
